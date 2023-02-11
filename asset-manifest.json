@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/llibrary_club_bullseye/static/css/main.9a9fc742.chunk.css",
+    "main.js": "/llibrary_club_bullseye/static/js/main.9601abc0.chunk.js",
+    "main.js.map": "/llibrary_club_bullseye/static/js/main.9601abc0.chunk.js.map",
+    "runtime-main.js": "/llibrary_club_bullseye/static/js/runtime-main.229ca286.js",
+    "runtime-main.js.map": "/llibrary_club_bullseye/static/js/runtime-main.229ca286.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/llibrary_club_bullseye/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.aa48353c.chunk.js": "/llibrary_club_bullseye/static/js/2.aa48353c.chunk.js",
+    "static/js/2.aa48353c.chunk.js.map": "/llibrary_club_bullseye/static/js/2.aa48353c.chunk.js.map",
+    "static/js/3.3530e132.chunk.js": "/llibrary_club_bullseye/static/js/3.3530e132.chunk.js",
+    "static/js/3.3530e132.chunk.js.map": "/llibrary_club_bullseye/static/js/3.3530e132.chunk.js.map",
+    "index.html": "/llibrary_club_bullseye/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/llibrary_club_bullseye/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.9a9fc742.chunk.css.map": "/llibrary_club_bullseye/static/css/main.9a9fc742.chunk.css.map",
+    "static/js/2.aa48353c.chunk.js.LICENSE.txt": "/llibrary_club_bullseye/static/js/2.aa48353c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.229ca286.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.aa48353c.chunk.js",
+    "static/css/main.9a9fc742.chunk.css",
+    "static/js/main.9601abc0.chunk.js"
+  ]
+}
